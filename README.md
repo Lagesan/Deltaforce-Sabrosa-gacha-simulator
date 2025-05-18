@@ -5,7 +5,7 @@
 This project is a gacha simulator for Sabrosa (D-wolf), one of operators of Deltaforce. Why I create this project? Because I didn't pull it--yet! **QAQ**
 The essense of this project is a few of screenshot and a video. 
 Thanks [@Mr-烟火梧桐](https://space.bilibili.com/407531456), I use his [video](https://www.bilibili.com/video/BV1T8wpezEYG).
-Also, I use some screenshot from [Deltaforce](https://www.playdeltaforce.com/)
+Also, I use some screenshots from [Deltaforce](https://www.playdeltaforce.com/)
 
 ## Function
 
