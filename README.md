@@ -19,8 +19,21 @@ cd Deltaforce-Sabrosa-gacha-simulator
 ```
 
 ## Usage
-
+### Method one
 Just open gacha.html in a broswer.
+
+### Method two
+Install python 3.6(or version >= 3.6), use command:
+```bash
+pip install flask
+```
+to install the required package.
+Use command
+```bash
+python app.py
+```
+to run the server.
+Then open your browser and go to `http://localhost:5000/`.
 
 
 ## License
